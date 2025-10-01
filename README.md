@@ -6,7 +6,7 @@ Our mission is to empower citizens, researchers, and policymakers with accessibl
 
 ---
 
-## 🌍 About Us
+## 🇲🇾 About Us
 
 CivicTechMY is a **community-driven project** that focuses on:
 - Reusing and extending datasets published on [data.gov.my](https://data.gov.my), [open.dosm.gov.my](https://open.dosm.gov.my/) any open data from official Ministry portal under the **Malaysia Open Data License (MODL)**.
