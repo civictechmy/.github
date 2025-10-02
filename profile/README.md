@@ -31,7 +31,7 @@ We are a civic-tech community initiative inspired by the global movement of open
 
 We work on multiple community projects, including:
 
-TBD
+[Price Catcher](https://pricecatcher.civictech.my/)
 
 (💡 You can add your project repos here as they grow.)
 
